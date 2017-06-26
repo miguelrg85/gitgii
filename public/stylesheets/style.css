@@ -13,5 +13,12 @@ a {
 
 .form-segment {
   display: table-cell;
-  vertical-align: middle;  
+  vertical-align: middle;
+}
+
+.title {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  padding-top: 50px;
+  border-top: solid;
 }
